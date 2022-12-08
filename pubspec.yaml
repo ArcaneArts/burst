@@ -1,0 +1,10 @@
+name: burst
+description: Lots of threading tools for executing jobs in parallel in various ways.
+version: 1.0.0
+homepage: https://github.com/ArcaneArts/burst
+environment:
+  sdk: '>=2.18.5 <3.0.0'
+dependencies:
+  fast_log: ^1.0.1
+  precision_stopwatch: ^1.0.2
+  thread: ^0.2.1
